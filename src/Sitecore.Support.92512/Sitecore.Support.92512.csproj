@@ -53,6 +53,7 @@
     <Reference Include="System.Configuration" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pipelines\RenderField\GetDateFieldValue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Xml\Xsl\DateRenderer.cs" />
   </ItemGroup>
